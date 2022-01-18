@@ -27,4 +27,4 @@ This repository already configured with:
 
 This project is open for contribution.
 
-For any suggestion and query contact me at : sumityadavbadli@gmail.com
+For any suggestion and query contact me at : md.jewelmia52@gmail.com
